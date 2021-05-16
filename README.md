@@ -54,17 +54,17 @@ It is a website which shows the 🦠COVID-19 cases in a particular region in the
     </p>
 </div>
 
-## Considerations
+## 🤓Considerations
 The data shown in the map is static (as of 27 March 2020) and does not update on regular intervals
 
-## Improvements
+## 📈Improvements
 * Use dynamic data to show the COVID-19 cases on the map by using an API
 * Make a popup to show the data when a marker is clicked
 * Show the coordinates of the map where the user is exploring
 
-## Contributing
+## 📩Contributing
 You are encouraged to contribute in the project and report issues.
 A set of [Improvements](https://github.com/hamiecod/covid-maps#Improvements) have been listed to help you get some ideas for improvements in the website.
 
-## License
+## 📜License
 The software is copyrighted under [MIT License](https://opensource.org/licenses/MIT)
