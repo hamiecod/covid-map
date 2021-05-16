@@ -1,0 +1,1 @@
+<h1 style='text-align:center'>😷COVID-19 Cases Visualizer</h1>
