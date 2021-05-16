@@ -1,6 +1,3 @@
-<style>
-    img{width:30px; height: 30px};
-</style>
 <div>
     <h1 style='text-align:center;'>😷COVID-19 Cases Visualizer</h1>
     <div style="display:flex;justify-content:center;cursor:pointer;">
@@ -56,3 +53,7 @@ It is a website which shows the 🦠COVID-19 cases in a particular region in the
 </div>
 
 ## Considerations
+The data shown in the map is static (as of 27 March 2020) and does not update on regular intervals
+
+## Improvements
+* Use dynamic data to show the COVID-19 cases on the map by using an API
