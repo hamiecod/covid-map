@@ -57,3 +57,5 @@ The data shown in the map is static (as of 27 March 2020) and does not update on
 
 ## Improvements
 * Use dynamic data to show the COVID-19 cases on the map by using an API
+* Make a popup to show the data when a marker is clicked
+* Show the coordinates of the map where the user is exploring

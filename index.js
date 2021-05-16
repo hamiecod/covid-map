@@ -37,8 +37,6 @@ function updateMap(){
             })
             .setLngLat([longitude, latitude])
             .addTo(map);
-
-            
         });
     });
 }
