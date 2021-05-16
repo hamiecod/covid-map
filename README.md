@@ -59,3 +59,6 @@ The data shown in the map is static (as of 27 March 2020) and does not update on
 * Use dynamic data to show the COVID-19 cases on the map by using an API
 * Make a popup to show the data when a marker is clicked
 * Show the coordinates of the map where the user is exploring
+
+## License
+The software is copyrighted under [MIT License](https://opensource.org/licenses/MIT)
