@@ -2,7 +2,7 @@
     <h1 style='text-align:center;'>😷COVID-19 Cases Visualizer</h1>
     <div style="display:flex;justify-content:center;cursor:pointer;">
         <a href="#">
-            <img src="https://img.shields.io/badge/-Live%20Preview-%232a9d8f">
+            <img height:20 width:70 src="https://img.shields.io/badge/-Live%20Preview-%232a9d8f">
         </a>
     </div>
 </div>
