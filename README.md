@@ -14,37 +14,37 @@ It is a website which shows the 🦠COVID-19 cases in a particular region in the
 ## 👨‍💻Technologies Used
 <div style="margin-left: 20px;margin-top: 10px;margin-bottom: 10px;">
     <div style="display:flex;align-items:center;margin: 5px 0px;">
-        <img height=30 width=30 src="https://cdn.freebiesupply.com/logos/large/2x/logo-javascript-logo-png-transparent.png"
+        <img markdown=1 src="https://cdn.freebiesupply.com/logos/large/2x/logo-javascript-logo-png-transparent.png"
         style="width:30px; height: 30px">
         <span style="padding-left:8.5px; font-weight:20px;">Javascript</span>
     </div>
     <div style="display:flex;align-items:center;margin: 5px 0px;">
-        <img height=30 width=30 src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png"
+        <img markdown=1 src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png"
         style="width:30px; height: 30px">
         <span style="padding-left:8.5px; font-weight:20px;">HTML5</span>
     </div>
     <div style="display:flex;align-items:center;margin: 5px 0px;">
-        <img height=30 width=30 src="https://freepikpsd.com/wp-content/uploads/2019/10/css3-logo-png-9-Transparent-Images.png"
+        <img markdown=1 src="https://freepikpsd.com/wp-content/uploads/2019/10/css3-logo-png-9-Transparent-Images.png"
         style="width:30px; height: 30px">
         <span style="padding-left:8.5px; font-weight:20px;">CSS3</span>
     </div>
     <div style="display:flex;align-items:center;margin: 5px 0px;">
-        <img height=30 width=30 src="https://cdn.freebiesupply.com/logos/large/2x/pug-logo-png-transparent.png"
+        <img markdown=1 src="https://cdn.freebiesupply.com/logos/large/2x/pug-logo-png-transparent.png"
         style="width:30px; height: 30px">
         <span style="padding-left:8.5px; font-weight:20px;">Pug(a HTML templating engine)</span>
     </div>
     <div style="display:flex;align-items:center;margin: 5px 0px;">
-        <img height=30 width=30 src="https://sass-lang.com/assets/img/styleguide/seal-black-1e36d095.png"
+        <img markdown=1 src="https://sass-lang.com/assets/img/styleguide/seal-black-1e36d095.png"
         style="width:30px; height: 30px">
         <span style="padding-left:8.5px; font-weight:20px;">SCSS(CSS preprocessor)</span>
     </div>
     <div style="display:flex;align-items:center;margin: 5px 0px;">
-        <img height=30 width=30 src="https://cdn.freebiesupply.com/logos/large/2x/json-logo-png-transparent.png"
+        <img markdown=1 src="https://cdn.freebiesupply.com/logos/large/2x/json-logo-png-transparent.png"
         style="width:30px; height: 30px">
         <span style="padding-left:8.5px; font-weight:20px;">JSON</span>
     </div>
     <div style="display:flex;align-items:center;margin: 5px 0px;">
-        <img height=30 width=30 src="https://seeklogo.com/images/M/mapbox-logo-D6FDDD219C-seeklogo.com.png"
+        <img markdown=1 src="https://seeklogo.com/images/M/mapbox-logo-D6FDDD219C-seeklogo.com.png"
         style="width:30px; height: 30px">
         <span style="padding-left:8.5px; font-weight:20px;">Mapbox</span>
     </div>
