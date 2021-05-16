@@ -64,7 +64,7 @@ The data shown in the map is static (as of 27 March 2020) and does not update on
 
 ## 📩Contributing
 You are encouraged to contribute in the project and report issues.
-A set of [Improvements](https://github.com/hamiecod/covid-maps#Improvements) have been listed to help you get some ideas for improvements in the website.
+A set of [Improvements](https://github.com/hamiecod/covid-maps#improvements) have been listed to help you get some ideas for improvements in the website.
 
 ## 📜License
 The software is copyrighted under [MIT License](https://opensource.org/licenses/MIT)
