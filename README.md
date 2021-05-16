@@ -11,7 +11,7 @@ It is a website which shows the 🦠COVID-19 cases in a particular region in the
 ## 👨‍💻Technologies Used
 <div style="margin-left: 20px;margin-top: 10px;margin-bottom: 10px;">
     <div style="display:flex;align-items:center;margin: 5px 0px;">
-        <img markdown=1 src="https://cdn.freebiesupply.com/logos/large/2x/logo-javascript-logo-png-transparent.png"
+        <img height=30 width=30 src="https://cdn.freebiesupply.com/logos/large/2x/logo-javascript-logo-png-transparent.png"
         style="width:30px; height: 30px">
         <span style="padding-left:8.5px; font-weight:20px;">Javascript</span>
     </div>
@@ -53,4 +53,7 @@ It is a website which shows the 🦠COVID-19 cases in a particular region in the
 </div>
 
 ## Considerations
-The data shown in the map is static (as of 27 March 2020) and does not update
+The data shown in the map is static (as of 27 March 2020) and does not update on regular intervals
+
+## Improvements
+* Use dynamic data to show the COVID-19 cases on the map by using an API
