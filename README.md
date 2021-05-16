@@ -1,5 +1,8 @@
+<style>
+    img{width:30px; height: 30px};
+</style>
 <div>
-    <h1 style='text-align:center'>😷COVID-19 Cases Visualizer</h1>
+    <h1 style='text-align:center;'>😷COVID-19 Cases Visualizer</h1>
     <div style="display:flex;justify-content:center;cursor:pointer;">
         <a href="#" style="background-color:#2a9d8f;border-radius:5px;padding: 2px 11px;color:#e9c46a;font-weight:bold;" ">Live Preview</a>
     </div>
